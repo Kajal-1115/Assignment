@@ -1,2 +1,2 @@
-# Assignment INSTITUTE PANEL
+# Assignment PANEL
  assignmen work
